@@ -15,3 +15,9 @@ Basic simulations of signals and noise.
 # Tugas QSPK SISKOM
 
 Tujuan pembelajaran QPSK adalah memahami proses modulasi digital yang mengubah data biner menjadi sinyal pembawa menggunakan dua carrier orthogonal agar data dapat dikirim lebih efisien.
+
+## Link
+Bisa buka Link Tugas Siskom.ipynb
+
+## Output
+
