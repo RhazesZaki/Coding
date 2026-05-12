@@ -20,4 +20,4 @@ Tujuan pembelajaran QPSK adalah memahami proses modulasi digital yang mengubah d
 Bisa buka Link Tugas Siskom.ipynb
 
 ## Output
-
+![image alt](https://github.com/RhazesZaki/Signal-Coding/blob/b6b892a00f62cebb81421e42390b29cedf53a3ed/Sinyal%20carrier.png)
